@@ -12,4 +12,5 @@
     - C1：第一个程序Hello，World!（c1_helloWorld.cpp）
     - C2：基本语法（c2_basicGrammar.cpp）
     - C3：变量（c3_variableType.cpp）
+    - C4：作用域和常量（c4_scopeAndConstant.cpp）
 By：tyza66

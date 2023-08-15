@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main3() {
 	//各种编程语言都有变量的概念 主要为了存储数据的时候控制内存大小和规范数据的类型
 	//C++中的变量必须先声明再使用
 	//声明变量的时候必须指定变量的类型

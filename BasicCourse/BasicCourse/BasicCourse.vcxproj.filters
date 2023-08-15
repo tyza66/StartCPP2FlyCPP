@@ -24,5 +24,8 @@
     <ClCompile Include="c3_variableType.cpp">
       <Filter>资源文件</Filter>
     </ClCompile>
+    <ClCompile Include="c4_scopeAndConstant.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
