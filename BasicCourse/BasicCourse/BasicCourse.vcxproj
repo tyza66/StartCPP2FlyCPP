@@ -128,6 +128,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="c1_helloWorld.cpp" />
+    <ClCompile Include="c2_basicGrammar.cpp" />
+    <ClCompile Include="c3_variableType.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

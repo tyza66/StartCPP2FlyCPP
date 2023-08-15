@@ -18,5 +18,11 @@
     <ClCompile Include="c1_helloWorld.cpp">
       <Filter>资源文件</Filter>
     </ClCompile>
+    <ClCompile Include="c2_basicGrammar.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c3_variableType.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
