@@ -12,7 +12,7 @@ public:
 
 int MyClass::v = 96;
 
-int main() {
+int main4() {
 	//这时这个大括号里面的i还没有被定义 所以显示的是外面定义的
 	cout << i << endl;
 	int i = 1;
@@ -32,7 +32,7 @@ int main() {
 	//声明常量
 	const int a = 1;
 
-	//还可以直接声明命名空间
+	//还可以直接声明宏定义
 	cout << PI << endl;
 
 	return 0;

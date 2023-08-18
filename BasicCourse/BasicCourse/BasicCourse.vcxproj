@@ -131,6 +131,8 @@
     <ClCompile Include="c2_basicGrammar.cpp" />
     <ClCompile Include="c3_variableType.cpp" />
     <ClCompile Include="c4_scopeAndConstant.cpp" />
+    <ClCompile Include="c5_modifier.cpp" />
+    <ClCompile Include="c6_operator.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

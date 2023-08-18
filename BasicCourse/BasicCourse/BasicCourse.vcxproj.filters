@@ -27,5 +27,11 @@
     <ClCompile Include="c4_scopeAndConstant.cpp">
       <Filter>资源文件</Filter>
     </ClCompile>
+    <ClCompile Include="c5_modifier.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c6_operator.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
