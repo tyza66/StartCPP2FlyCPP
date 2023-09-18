@@ -1,2 +1,38 @@
-﻿  c6_operator.cpp
-  BasicCourse.vcxproj -> D:\Project\StartCPP2FlyCPP\BasicCourse\x64\Debug\BasicCourse.exe
+﻿  c10_number.cpp
+D:\Project\StartCPP2FlyCPP\BasicCourse\BasicCourse\c10_number.cpp(8,11): warning C4305: “初始化”: 从“double”到“float”截断
+  c11_array.cpp
+  c12_string.cpp
+  c13_pointer.cpp
+  c14_quote.cpp
+  c15_time.cpp
+  c16_inputOutput.cpp
+  c17_structuralMorphology.cpp
+  c18_classAndObject.cpp
+  c19_extends.cpp
+  c1_helloWorld.cpp
+  c20_heavyLoad.cpp
+  c21_polymorphic.cpp
+  c22_abstract.cpp
+  c23_fileOperation.cpp
+  c24_exceptionHandling.cpp
+D:\Project\StartCPP2FlyCPP\BasicCourse\BasicCourse\c24_exceptionHandling.cpp(47,28): warning C4101: “e”: 未引用的局部变量
+  c25_dynamicMemory.cpp
+  c26_namespace.cpp
+  c27_module.cpp
+  c28_pretreatment.cpp
+  正在生成代码...
+  正在编译...
+  c29_signal.cpp
+  c2_basicGrammar.cpp
+  c30_thread.cpp
+  c31_web.cpp
+  c3_variableType.cpp
+  c4_scopeAndConstant.cpp
+  c5_modifier.cpp
+  c6_operator.cpp
+  c7_circulate.cpp
+  c8_determine.cpp
+  c9_function.cpp
+  正在生成代码...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+D:\Project\StartCPP2FlyCPP\BasicCourse\x64\Debug\BasicCourse.exe : fatal error LNK1120: 1 个无法解析的外部命令

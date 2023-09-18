@@ -33,5 +33,80 @@
     <ClCompile Include="c6_operator.cpp">
       <Filter>资源文件</Filter>
     </ClCompile>
+    <ClCompile Include="c7_circulate.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c8_determine.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c9_function.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c10_number.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c11_array.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c12_string.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c13_pointer.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c14_quote.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c15_time.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c16_inputOutput.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c17_structuralMorphology.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c18_classAndObject.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c19_extends.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c20_heavyLoad.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c21_polymorphic.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c22_abstract.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c23_fileOperation.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c24_exceptionHandling.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c25_dynamicMemory.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c26_namespace.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c27_module.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c28_pretreatment.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c29_signal.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c30_thread.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c31_web.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -127,12 +127,37 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="c10_number.cpp" />
+    <ClCompile Include="c11_array.cpp" />
+    <ClCompile Include="c12_string.cpp" />
+    <ClCompile Include="c13_pointer.cpp" />
+    <ClCompile Include="c14_quote.cpp" />
+    <ClCompile Include="c15_time.cpp" />
+    <ClCompile Include="c16_inputOutput.cpp" />
+    <ClCompile Include="c17_structuralMorphology.cpp" />
+    <ClCompile Include="c18_classAndObject.cpp" />
+    <ClCompile Include="c19_extends.cpp" />
     <ClCompile Include="c1_helloWorld.cpp" />
+    <ClCompile Include="c20_heavyLoad.cpp" />
+    <ClCompile Include="c21_polymorphic.cpp" />
+    <ClCompile Include="c22_abstract.cpp" />
+    <ClCompile Include="c23_fileOperation.cpp" />
+    <ClCompile Include="c24_exceptionHandling.cpp" />
+    <ClCompile Include="c25_dynamicMemory.cpp" />
+    <ClCompile Include="c26_namespace.cpp" />
+    <ClCompile Include="c27_module.cpp" />
+    <ClCompile Include="c28_pretreatment.cpp" />
+    <ClCompile Include="c29_signal.cpp" />
     <ClCompile Include="c2_basicGrammar.cpp" />
+    <ClCompile Include="c30_thread.cpp" />
+    <ClCompile Include="c31_web.cpp" />
     <ClCompile Include="c3_variableType.cpp" />
     <ClCompile Include="c4_scopeAndConstant.cpp" />
     <ClCompile Include="c5_modifier.cpp" />
     <ClCompile Include="c6_operator.cpp" />
+    <ClCompile Include="c7_circulate.cpp" />
+    <ClCompile Include="c8_determine.cpp" />
+    <ClCompile Include="c9_function.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
